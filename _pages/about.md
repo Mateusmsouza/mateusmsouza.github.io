@@ -7,7 +7,7 @@ permalink: /about/
 Hey, how u doin?
 
 I'm Mateus and I work as Software Developer, I mainly use Python to develop Back-end. 
-However Test-Driven Development, Software testing, DevOps, Mobile and Front-end development also are my topics of interest. I'm keeping this personal blog to write about sutff that I enjoy :)
+However Test-Driven Development, Software testing, DevOps, Mobile and Front-end development also are my topics of interest. I'm keeping this personal blog to write about stuff that I enjoy :)
 
 You may contact me at:
 
