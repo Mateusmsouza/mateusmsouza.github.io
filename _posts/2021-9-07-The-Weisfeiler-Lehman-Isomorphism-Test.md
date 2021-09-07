@@ -29,7 +29,7 @@ The core idea of the Weisfeiler-Lehman isomorphism test is to find for each node
 
 # Walkthrough
 
-This is a walkthrough my wl implementation, the full code can be found on my [Github](https://github.com/Mateusmsouza/The-Weisfeiler-Lehman-Isomorphism-Test/blob/master/wl_algo.py).
+This is a walkthrough on my wl algorithm implementation, the full code can be found on my [Github](https://github.com/Mateusmsouza/The-Weisfeiler-Lehman-Isomorphism-Test/blob/master/wl_algo.py).
 
 ```python
 def run_wl(graph_one: Graph, graph_two: Graph) -> bool:
