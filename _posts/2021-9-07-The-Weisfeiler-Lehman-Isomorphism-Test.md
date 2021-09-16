@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  A Walkthrough on my Weisfeiler-Lehman Isomorphism Test Implementation in Python
-categories: Algorithms
+title:  A Walkthrough on a Weisfeiler-Lehman Isomorphism Test Implementation in Python
+categories: [Algorithms, Graph Theory]
 ---
-# The Weisfeiler Lehman Isomorphism Test
-
 # What kinda algo is it?
 
 Weisfeiler-Lehman is an algorithm to test if two graphs (G and H) are isomorphic. 
