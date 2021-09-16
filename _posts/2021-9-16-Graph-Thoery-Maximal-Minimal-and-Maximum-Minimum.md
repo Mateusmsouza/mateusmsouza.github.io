@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  Graph Thoery: Maximal, Minimal, Maximum and Minimum
+title:  Graph Thoery; Maximal, Minimal, Maximum and Minimum
 categories: [Math, Graph Theory]
 ---
-# Graph Thoery: Maximal, Minimal, Maximum and Minimum
-
 Bonsoir my friend, in this article we'll quickly be discussing the difference between maximal, minimal, maximum and minimum concepts applying them to graph theory.
 
 Maximal
