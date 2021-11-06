@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Graph Thoery; Ford Fulkerson
+title:  Graph Theory; Ford Fulkerson
 categories: [Algorithms, Graph Theory]
 ---
-## Maximum Flow Problem
 
 The maximum flow problem consists basically in finding a flow which has the greatest capacity in a graph flow. 
+
+## Maximum Flow Problem
 
 Clarifying, given a directed graph (a graph which its edges has directions) and each edge has a certain capacity (C), you must find the flow given a vertex source (S) and the sink (T), that respects two constraints:
 
