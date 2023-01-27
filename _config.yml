@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Mateus Souza - Personal Blog
+name: Popular Code and Erudite Coffee
 
 # Name of the author
 author: Mateus Souza
 
 # Short bio or description (displayed in the header)
-description: A Developer's Personal Blog 
+description: My learning notes and cool stuff
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/coffee.jpeg
@@ -25,8 +25,8 @@ footer-links:
   facebook:
   flickr:
   github: Mateusmsouza
-  instagram: machaduwd/
-  linkedin: mateus-msouza/ 
+  instagram: @machaduwd
+  linkedin: mateus-msouza 
   pinterest:
   rss: rss
   twitter:
