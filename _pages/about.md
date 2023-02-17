@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Hey, how u doin?
+![Looking around!](/images/about/me.jpg)
 
-I'm Mateus and I work as Software Developer, I mainly use Python to develop Back-end. 
-However Test-Driven Development, Software testing, DevOps, Mobile and Front-end development also are my topics of interest. I'm keeping this personal blog to write about stuff that I enjoy :)
+# Welcome to my blog!
 
-You may contact me at:
+My name is Mateus, and I am a Senior Software Engineer with extensive experience in the field of software development. Currently, I am working at Luizalabs, a brazilian leading technology company.
 
-[![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mateus_msouza@outlook.com)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateus-msouza/)
-[![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mateusmsouza)
+Throughout my career, I have honed my skills in software development, particularly in Python. I have worked on a wide range of projects, from developing front-end applications to building complex back-end systems.
 
-**Less is more...**
+On this website, I will be sharing my insights and experiences on software development, particularly in Python. You can expect to find informative and engaging content that will help you enhance your skills as a software developer. Whether you are a beginner or an experienced developer, I am confident that you will find valuable information that will help you in your career.
+
+Thank you for visiting my website, and I look forward to sharing my knowledge with you.
