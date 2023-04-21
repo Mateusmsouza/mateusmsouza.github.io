@@ -1,12 +1,16 @@
 ---
 layout: post
 title:  How to keep command running on backgroud after logout on SSH server
-categories: [Unix]
+categories: [Unix, Bash]
 ---
 
-If you are working with a remote server, you might need to run a command that takes too long to complete. In such cases, you may want to close your local terminal, as it can be inconvenient and may even interrupt the command if connection is lost. A simple trick to handle this problem is nohup command.
+If you are working with a remote server, you might need to run a command that takes too long to complete.
 
-Nohup command allows you to run a command on a remote server and keep it running even after you disconnect from the server. Especially useful if you are running a long-running process, such as a data analysis script or a Machine Learning training.
+In such cases, you may want to close your local terminal, as it can be inconvenient and may even interrupt the command if connection is lost. 
+A simple trick to handle this problem is nohup command.
+
+Nohup command allows you to run a command on a remote server and keep it running even after you disconnect from the server.
+Especially useful if you are running a long-running process, such as a data analysis script or a Machine Learning training.
 
 To use nohup, you need to be connected to to server by SSH. Once you are logged in, run nohup:
 
@@ -14,7 +18,7 @@ To use nohup, you need to be connected to to server by SSH. Once you are logged 
 nohup echo foo &
 ```
 
-On this commando"foo" will be printted. The "&" at the end of the command tells the server to run the command in the background, which allows you to disconnect from the server without interrupting the process.
+On this commando "foo" will be printted. The "&" at the end of the command tells the server to run the command in the background, which allows you to disconnect from the server without interrupting the process.
 
 For example, if you want to run a Python script called "some_script.py" on the remote server, you can use the following command:
 
