@@ -3,11 +3,11 @@ layout: post
 title:  How to keep command running on backgroud after logout on SSH server
 categories: [Unix, Bash]
 ---
-
 If you are working with a remote server, you might need to run a command that takes too long to complete.
-
 In such cases, you may want to close your local terminal, as it can be inconvenient and may even interrupt the command if connection is lost. 
 A simple trick to handle this problem is nohup command.
+
+## Using nohup to run on background in remote servers
 
 Nohup command allows you to run a command on a remote server and keep it running even after you disconnect from the server.
 Especially useful if you are running a long-running process, such as a data analysis script or a Machine Learning training.
