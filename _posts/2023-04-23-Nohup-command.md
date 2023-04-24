@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to keep command running on backgroud after logout on SSH server
+title: How to keep command running on background after logout on SSH server
 categories: [Unix, Bash]
 ---
 
@@ -14,7 +14,7 @@ To use nohup, you need to be connected to to server by SSH. Once you are logged 
 nohup echo foo &
 ```
 
-On this commando"foo" will be printted. The "&" at the end of the command tells the server to run the command in the background, which allows you to disconnect from the server without interrupting the process.
+On this command "foo" will be printted. The "&" at the end of the command tells the server to run the command in the background, which allows you to disconnect from the server without interrupting the process.
 
 For example, if you want to run a Python script called "some_script.py" on the remote server, you can use the following command:
 
