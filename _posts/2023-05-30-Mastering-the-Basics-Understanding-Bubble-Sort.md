@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mastering the Basics: Understanding Bubble Sort
+title: Mastering the Basics - Understanding Bubble Sort
 categories: [Data Structure, Sorting Algorithms]
 ---
 
