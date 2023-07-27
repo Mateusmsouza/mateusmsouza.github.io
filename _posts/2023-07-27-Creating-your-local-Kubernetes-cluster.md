@@ -79,7 +79,7 @@ $ minikube dashboard
 
 This will launch the dashboard server where we can see our workloads, and this will be very helpful when developing our services and helm charts 😊.
 
-![Untitled](Creating%20your%20local%20Kubernetes%20cluster%20f84eb7d42e4546a7a4f6eb17dc9e683a/Untitled.png)
+![minikube-dashboard](/images/posts/Creating-your-local-Kubernetes-cluster/minikube-dashboard.png)
 
 This is a very basic setup, yet very powerful, I’ll use this as a base for other articles 😈.
 
