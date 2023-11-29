@@ -3,6 +3,7 @@ layout: post
 title: 'Creating Mutating Web Hooks for Kubernetes: A Step-by-Step Guide'
 categories: [DevOps, Kubernetes]
 ---
+
 In the ever-evolving landscape of Kubernetes orchestration, extending and customizing functionality is crucial. Mutating web hooks offer a powerful mechanism for dynamically altering objects before they are persisted in the cluster. In this guide, we'll walk through the process of creating a mutating web hook for Kubernetes, from generating SSL certificates to deploying and testing the webhook service.
 
 # Requirements
@@ -44,7 +45,7 @@ NAME           TYPE     DATA   AGE
 webhook-cert   Opaque   2      58s
 ```
 
-# ****Configuring the Webhook Service****
+# Configuring the Webhook Service
 
 Now, let's delve into the implementation of the webhook service using FastAPI and Docker. The Python code snippet below demonstrates a basic implementation of a mutating webhook service:
 
@@ -187,7 +188,7 @@ NAME                                           READY   STATUS    RESTARTS   AGE
 mutating-webhook-deployment-76b9f4b578-vmfzj   1/1     Running   0          32m
 ```
 
-# ****Testing the Webhook****
+# Testing the Webhook
 
 For testing purposes, create a dummy deployment:
 
