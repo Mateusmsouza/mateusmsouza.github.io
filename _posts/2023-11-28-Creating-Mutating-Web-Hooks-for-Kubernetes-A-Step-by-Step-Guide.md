@@ -235,8 +235,5 @@ This comprehensive guide equips you with the knowledge to create and deploy muta
 ## References
 
 [https://kmitevski.com/kubernetes-mutating-webhook-with-python-and-fastapi/](https://kmitevski.com/kubernetes-mutating-webhook-with-python-and-fastapi/)
-
 [https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers/](https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers/)
-
 [https://medium.com/ovni/writing-a-very-basic-kubernetes-mutating-admission-webhook-398dbbcb63ec](https://medium.com/ovni/writing-a-very-basic-kubernetes-mutating-admission-webhook-398dbbcb63ec)
-
