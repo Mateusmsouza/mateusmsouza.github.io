@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Creating Mutating Web Hooks for Kubernetes: A Step-by-Step Guide'
+title: 'Creating Mutating Web Hooks for Kubernetes A Step-by-Step Guide'
 categories: [DevOps, Kubernetes]
 ---
 
